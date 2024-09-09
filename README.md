@@ -5,7 +5,7 @@
 ### Clone repository into your local environment!
 
 ```
-git clone 
+git clone https://github.com/aqimotegi/training-frontend
 ```
 
 ### Let's create your branch!
